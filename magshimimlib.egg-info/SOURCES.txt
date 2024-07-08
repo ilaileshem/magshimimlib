@@ -1,0 +1,9 @@
+LICENSE.txt
+setup.cfg
+setup.py
+magshimimlib/__init__.py
+magshimimlib/myfunctions.py
+magshimimlib.egg-info/PKG-INFO
+magshimimlib.egg-info/SOURCES.txt
+magshimimlib.egg-info/dependency_links.txt
+magshimimlib.egg-info/top_level.txt
